@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/defi-react-api/static/css/main.541233ab.chunk.css",
+    "main.js": "/defi-react-api/static/js/main.49235a1e.chunk.js",
+    "main.js.map": "/defi-react-api/static/js/main.49235a1e.chunk.js.map",
+    "runtime~main.js": "/defi-react-api/static/js/runtime~main.b5596da2.js",
+    "runtime~main.js.map": "/defi-react-api/static/js/runtime~main.b5596da2.js.map",
+    "static/js/2.b21ab1c5.chunk.js": "/defi-react-api/static/js/2.b21ab1c5.chunk.js",
+    "static/js/2.b21ab1c5.chunk.js.map": "/defi-react-api/static/js/2.b21ab1c5.chunk.js.map",
+    "index.html": "/defi-react-api/index.html",
+    "precache-manifest.c4960030aa5b182cac8685fe9f5bf408.js": "/defi-react-api/precache-manifest.c4960030aa5b182cac8685fe9f5bf408.js",
+    "service-worker.js": "/defi-react-api/service-worker.js",
+    "static/css/main.541233ab.chunk.css.map": "/defi-react-api/static/css/main.541233ab.chunk.css.map",
+    "static/media/hero-img.png": "/defi-react-api/static/media/hero-img.5b6ea36a.png",
+    "static/media/trade.png": "/defi-react-api/static/media/trade.583edf6b.png"
+  }
+}
