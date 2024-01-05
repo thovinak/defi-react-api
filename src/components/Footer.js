@@ -38,10 +38,9 @@ const Footer = () => {
                 <div className='col'>
                     <h5>Social</h5>
                     <span className='bar'> </span>
-                        <a href='/'><FaFacebook className='icon'/></a>
                         <a href='/'><FaTwitter className='icon'/></a>
-                        <a href='/'><FaLinkedin className='icon'/></a>
-                        <a href='/'><FaGithub className='icon'/></a>
+                        <a href='https://www.linkedin.com/in/karthikthovinakere/'><FaLinkedin className='icon'/></a>
+                        <a href='https://github.com/thovinak'><FaGithub className='icon'/></a>
                 </div>
             </div>
             
